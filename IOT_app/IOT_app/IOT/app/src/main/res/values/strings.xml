@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">INTERNET OF THINGS</string>
+    <string name="trang_chu">Trang chủ</string>
+    <string name="di_ngu">Ban đêm</string>
+    <string name="do_am">Độ ẩm:</string>
+    <string name="di_lam">Ra ngoài</string>
+    <string name="den_phong_khach">Đèn phòng khách</string>
+    <string name="den_nha_bep">Đèn nhà bếp</string>
+    <string name="do_sang_den_phong_khach">Độ Sáng đèn phòng khách:</string>
+    <string name="do_sang_den_nha_bep">Độ sáng đèn nhà bếp:</string>
+    <string name="hen_gio">Hẹn giờ</string>
+    <string name="dang_xuat">ĐĂNG XUẤT</string>
+    <string name="do_am_value">Độ ẩm</string>
+    <string name="value_pt_den_nha_bep">0%</string>
+    <string name="relay1">RELAY1</string>
+    <string name="denphongngu">Đèn phòng ngủ</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="gas_meter">Gas Meter</string>
+    <string name="tietkiemnangluong">Tiết kiệm năng lượng</string>
+    <string name="banngay">Ban ngày</string>
+    <string name="nhietdo">Nhiệt độ:</string>
+    <string name="khidoc">Khí độc:</string>
+    <string name="mucnuoc">Mực nước:</string>
+    <string name="hengio">Hẹn giờ</string>
+    <string name="rgb">RGB</string>
+    <string name="camera">CAMERA</string>
+    <string name="_0">0%</string>
+    <string name="relay3">RELAY3</string>
+    <string name="relay2">RELAY2</string>
+    <string name="dosangdenphongngu">Độ sáng đèn phòng ngủ</string>
+</resources>

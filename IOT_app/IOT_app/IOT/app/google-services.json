@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "737723156346",
+    "firebase_url": "https://iot-arduino-40f94-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-arduino-40f94",
+    "storage_bucket": "iot-arduino-40f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737723156346:android:04781dbbc8a0fc7a7ab8c3",
+        "android_client_info": {
+          "package_name": "com.example.light_control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMYFvnq_rbwrxWeiQ-WL5i7F4pPcS3_yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
